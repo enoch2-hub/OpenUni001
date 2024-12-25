@@ -40,8 +40,6 @@ The animation should start, and you’ll see the falling stripes effect along wi
 
 ---
 
-## Screenshot (Example Output)
-
 **Center Text:**
 ```
 Open University of Sri Lanka
